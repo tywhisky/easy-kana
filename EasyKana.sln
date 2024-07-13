@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyKana", "EasyKana.csproj", "{3EFFD86D-7167-40B5-8233-8F468CA9552D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFFD86D-7167-40B5-8233-8F468CA9552D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFFD86D-7167-40B5-8233-8F468CA9552D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFFD86D-7167-40B5-8233-8F468CA9552D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFFD86D-7167-40B5-8233-8F468CA9552D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3AA0B8F-65DD-4B3E-B686-20E356DC8319}
+	EndGlobalSection
+EndGlobal
